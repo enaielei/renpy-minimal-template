@@ -1,5 +1,5 @@
 init python:
-    build.name = "renpy-frameworks"
+    build.name = "renpy-minimal-template"
 
     ## The following functions take file patterns. File patterns are case-
     ## insensitive, and matched against the path relative to the base directory,
