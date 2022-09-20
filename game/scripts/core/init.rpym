@@ -1,5 +1,5 @@
 init python in core:
-    from store import *
+    from store import load_module
 
     load_module(
         "scripts/core/gui",
