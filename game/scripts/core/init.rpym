@@ -1,8 +1,0 @@
-init python in core:
-    from store import load_module
-
-    load_module(
-        "scripts/core/gui",
-        "scripts/core/config",
-        "scripts/core/build"
-    )
