@@ -151,9 +151,6 @@ cython_debug/
 #  option (not recommended) you can uncomment the following to ignore the entire idea folder.
 #.idea/
 
-# VSCode
-.vscode/
-
 # Ren'Py
 # Source: https://github.com/renpy/renpy/blob/master/.gitignore
 # Compiled Ren'Py files.
