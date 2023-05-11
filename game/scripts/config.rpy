@@ -7,7 +7,7 @@ define config.name = _("Ren'Py Minimal Template")
 
 ## The version of the game.
 
-define config.version = "1.0"
+define config.version = "0.0.0"
 
 ## Controls the platform-specific place Ren'Py will place the save files for
 ## this game. The save files will be placed in:
