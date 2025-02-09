@@ -1,7 +1,0 @@
-@del /s /q "game\*.rpyc" "game\*.rpymc"
-@rd /s /q "game\cache"
-REM @rd /s /q "game\saves"
-@del "log.txt"
-@del "errors.txt"
-@del "traceback.txt"
-@del "lint.txt"
